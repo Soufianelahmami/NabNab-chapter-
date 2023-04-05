@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"tips Mod 1","desc":"description1 ser","photo":"https://iili.io/HOlPwqg.jpg"},
-  {"title":"Advance Mod 2","desc":"description2 ser","photo":"https://iili.io/HOlPN1a.jpg"},
-  {"title":"Advance Mod 3","desc":"description3 ser","photo":"https://iili.io/HOlPXX1.jpg"},
-  {"title":"Advance Mod 4","desc":"description4 ser","photo":"https://iili.io/HOlPhLF.jpg"},
-  {"title":"Advance Mod 5","desc":"description5 ser","photo":"https://iili.io/HOlPOrJ.jpg"},
-  {"title":"Helper Mod 6","desc":"description6 ser","photo":"https://iili.io/HOlPv7R.jpg"},
-  {"title":"Advance Mod 7","desc":"description7 ser","photo":"https://iili.io/HOlPkdv.jpg"},
-  {"title":"Advance Mod 8","desc":"description8 ser","photo":"https://iili.io/HOlP8ep.jpg"}
+  {"title":"tips Mod 1","desc":"NabNab is a financial management application that is designed to help users organize their expenses and achieve their financial goals. The application has several features that are geared towards improving the financial well-being of its users, such as budgeting tools, expense tracking, and savings plans. In this article, we will take a closer look at the second chapter of the NabNab application and the features that it offers.","photo":"https://iili.io/HOlPwqg.jpg"},
+  {"title":"Advance Mod 2","desc":"With the aid of the financial management tool NabNab, users may plan their spending and reach their financial objectives. The software includes a number of features like budgeting tools, cost tracking, and savings strategies that are intended to help users improve their financial situation. We'll examine the NabNab application's second chapter and its features in more detail in this article.","photo":"https://iili.io/HOlPN1a.jpg"},
+  {"title":"Advance Mod 3","desc":"Chapter 2 of the NabNab application is focused on helping users track their expenses. The chapter is divided into three main sections: the expense tracker, the expense analysis, and the expense trends. Let's take a closer look at each of these sections.","photo":"https://iili.io/HOlPXX1.jpg"},
+  {"title":"Advance Mod 4","desc":"The NabNab application's Chapter 2 explains how to keep track of spending for users. The expense tracker, expense analysis, and expense trends comprise the chapter's three primary sections. Let's examine each of these sections in more detail.","photo":"https://iili.io/HOlPhLF.jpg"},
+  {"title":"Advance Mod 5","desc":"The expense tracker is the core feature of the NabNab application. It allows users to input their expenses and categorize them accordingly. The application provides several default categories such as groceries, transportation, entertainment, and bills. Users can also add custom categories to suit their needs. The expense tracker is easy to use, and users can input their expenses in a matter of seconds.","photo":"https://iili.io/HOlPOrJ.jpg"},
+  {"title":"Helper Mod 6","desc":"The NabNab application's main feature is the expense tracker. Users can enter their expenses and assign them the appropriate categories. The application offers a number of default categories, including those for bills, shopping, travel, and entertainment. To fit their needs, users can also add custom categories. Users can quickly enter their spending into the expense tracker because of how simple it is to use.","photo":"https://iili.io/HOlPv7R.jpg"},
+  {"title":"Advance Mod 7","desc":"The expense analysis section of the NabNab application provides users with an overview of their expenses. Users can see their total expenses, average daily expenses, and expenses by category. The application also provides users with a pie chart that shows their expenses by category. This feature allows users to quickly identify areas where they may be overspending and make adjustments accordingly.","photo":"https://iili.io/HOlPkdv.jpg"},
+  {"title":"Advance Mod 8","desc":"The expense analysis section of the NabNab application provides users with an overview of their expenses. Users can see their total expenses, average daily expenses, and expenses by category. The application also provides users with a pie chart that shows their expenses by category. This feature allows users to quickly identify areas where they may be overspending and make adjustments accordingly.","photo":"https://iili.io/HOlP8ep.jpg"}
 
    ]
  
