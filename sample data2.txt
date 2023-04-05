@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"tips Mod 1","desc":"description1 ser","photo":"https://iili.io/HOlPwqg.jpg"},
+  {"title":"Advance Mod 2","desc":"description2 ser","photo":"https://iili.io/HOlPN1a.jpg"},
+  {"title":"Advance Mod 3","desc":"description3 ser","photo":"https://iili.io/HOlPXX1.jpg"},
+  {"title":"Advance Mod 4","desc":"description4 ser","photo":"https://iili.io/HOlPhLF.jpg"},
+  {"title":"Advance Mod 5","desc":"description5 ser","photo":"https://iili.io/HOlPOrJ.jpg"},
+  {"title":"Helper Mod 6","desc":"description6 ser","photo":"https://iili.io/HOlPv7R.jpg"},
+  {"title":"Advance Mod 7","desc":"description7 ser","photo":"https://iili.io/HOlPkdv.jpg"},
+  {"title":"Advance Mod 8","desc":"description8 ser","photo":"https://iili.io/HOlP8ep.jpg"}
 
    ]
  
